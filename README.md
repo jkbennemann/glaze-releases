@@ -1,6 +1,4 @@
 # Glaze Releases
 
-Public release feed for [Glaze](https://glaze.app) — the macOS
-  dictation app.
-Download the latest `.dmg` from
-  [Releases](https://github.com/jkbennemann/glaze-releases/releases/latest).
+Public release feed for Glaze — the macOS/Windows dictation app.
+Download the latest version from our [Releases](https://github.com/jkbennemann/glaze-releases/releases/latest).
